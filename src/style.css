@@ -1,0 +1,9 @@
+.heading {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+  body {
+    background-color: lightblue;
+  }
+  
